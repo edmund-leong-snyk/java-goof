@@ -19,7 +19,6 @@
             <groupId>com.fasterxml.jackson.dataformat</groupId>
             <artifactId>jackson-dataformat-xml</artifactId>
             <scope>provided</scope>
-            <version>2.13.3</version>
         </dependency>
         <dependency>
             <groupId>joda-time</groupId>
